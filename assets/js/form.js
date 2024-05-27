@@ -21,6 +21,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
         form.reset();
     
-         window.location.href = '../my-blog/blog.html'; 
+         window.location.href = '../my-blog/my-blog.html'; 
     });
 });
